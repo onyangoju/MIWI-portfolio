@@ -1,2 +1,2 @@
 # MIWI-portfolio
-This is about the MIWI developers team website
+This repo was custom made for MIWI developers portfolio
